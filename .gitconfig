@@ -1,0 +1,18 @@
+[user]
+    name = Kelion Fernandes Aquino
+    email = 19786400+kelion-aquino@users.noreply.github.com
+[core]
+    editor = code
+    excludesfile = ~/.gitignore_global
+[alias]
+    st = status
+    co = checkout
+    ci = commit
+    br = branch
+    lg = log --oneline --graph --all --decorate
+[push]
+    default = simple
+[pull]
+    rebase = true
+[init]
+    defaultBranch = main
